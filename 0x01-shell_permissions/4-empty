@@ -1,2 +1,2 @@
 #!/bin/bash
-touch name_of_file
+touch hello
