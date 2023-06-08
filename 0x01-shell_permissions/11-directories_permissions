@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 750
+chmod -R 755
