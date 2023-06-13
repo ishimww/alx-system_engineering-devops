@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "your encoded text" | tr 'A-za-z' 'N-ZA-Mn-za-m |echo "your encoded text" | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+tr 'A-Za-z' 'N-ZA-Mn-za-m'
